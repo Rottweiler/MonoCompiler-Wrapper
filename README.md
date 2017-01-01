@@ -1,4 +1,6 @@
-# MonoCompiler-Wrapper
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Mono_project_logo.svg/860px-Mono_project_logo.svg.png" align="left" height="48" width="48" ></a>
+
+#MonoCompiler-Wrapper
 C#.NET Wrapper for the (mcs.exe) Mono Compiler - Compile Mono projects from your application
 
 # Usage
